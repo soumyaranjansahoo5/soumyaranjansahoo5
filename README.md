@@ -105,22 +105,11 @@ I build scalable backend systems in Ubuntu-based environments and enjoy CLI-firs
 
 ---
 
-## 🎮 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Linkusahoo479/Linkusahoo479/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph">
-</p>
-
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/soumyaranjan7321">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:linkusahoo479@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+- LinkedIn: [soumyaranjan7321](https://linkedin.com/in/soumyaranjan7321)
+- Email: linkusahoo479@gmail.com
+- Instagram: [@soumyaranjan_sahoo8](https://www.instagram.com/soumyaranjan_sahoo8/)
 
 ---
 
