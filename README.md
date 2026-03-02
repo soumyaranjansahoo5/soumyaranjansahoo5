@@ -105,6 +105,12 @@ I build scalable backend systems in Ubuntu-based environments and enjoy CLI-firs
 
 ---
 
+## 🎮 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Linkusahoo479/Linkusahoo479/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph">
+</p>
+
 ## 📫 Connect With Me
 
 <p align="center">
