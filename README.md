@@ -20,7 +20,7 @@ Java Backend & QA Automation Engineer with strong foundation in Selenium, Java, 
 Experienced in building scalable backend applications and automation frameworks for end-to-end testing.
 </p>
 
-💡 **Focus Areas:** Java Backend Development | QA Automation | API Testing | Backend Validation | Quality Engineering
+ 💡 Focus: Java Backend • QA Automation • API & Manual Testing
 ---
 ## 🛠️ Tech Stack
 
