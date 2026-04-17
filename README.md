@@ -16,10 +16,11 @@
 ---
 
 <p align="center">
-Graduate Software Engineer with a strong foundation in Linux systems, backend development, and open-source collaboration.  
-I build scalable backend systems in Ubuntu-based environments and enjoy CLI-first workflows.
+Java Backend & QA Automation Engineer with strong foundation in Selenium, Java, and software testing.  
+Experienced in building scalable backend applications and automation frameworks for end-to-end testing.
 </p>
 
+💡 **Focus Areas:** Java Backend Development | QA Automation | API Testing | Backend Validation | Quality Engineering
 ---
 ## 🛠️ Tech Stack
 
