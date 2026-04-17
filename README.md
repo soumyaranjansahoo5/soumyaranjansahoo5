@@ -54,37 +54,97 @@ I build scalable backend systems in Ubuntu-based environments and enjoy CLI-firs
 
 ## 💻 Selected Projects
 
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="55"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="55"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="55"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=git" height="55"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="55"/>
+</div>
+
+### 🧪 Testing Stack
+
+* Selenium WebDriver
+* TestNG
+* REST Assured (Learning)
+* Postman
+* JIRA (Basic)
+* Maven
+* Page Object Model (POM)
+* API Testing & Automation
+* Manual Testing (Black Box, White Box)
+
+---
+
+## 💻 Selected Projects
+
+### 🎥 YouTube Automation Testing Framework
+
+* Built automation framework using **Selenium WebDriver, Java, and TestNG**
+* Implemented **Page Object Model (POM)** for scalability
+* Automated **120+ test cases across 8 modules**
+* Performed **cross-browser testing** (Chrome, Firefox, Edge)
+* Used **TestNG annotations** for execution and reporting
+* Generated **HTML reports** for execution analysis
+* Handled **dynamic elements** using waits and locators
+
+---
+
 ### 🛒 Online Book Store
-- MVC-based Java backend (Servlets + JDBC)  
-- Role-based authentication & session handling  
-- SQL optimization (~30% performance improvement)  
-- Developed & tested in Linux environment  
+
+* MVC-based Java backend (Servlets + JDBC)
+* Role-based authentication & session handling
+* SQL optimization (~30% performance improvement)
+* Developed & tested in Linux environment
+
+---
 
 ### ☁️ Home Inventory (Serverless)
-- Python backend using AWS Lambda  
-- DynamoDB & S3 integration  
-- ~35% improved data retrieval efficiency  
 
-### 🐧 ## 🧪 Manual Testing Projects
+* Python backend using AWS Lambda
+* DynamoDB & S3 integration
+* ~35% improved data retrieval efficiency
+
+---
+
+## 🧪 Manual Testing Projects
 
 ### 🍔 Food Delivery Application Testing
-- Performed end-to-end testing of a web-based food delivery system  
-- Identified functional bug in coupon logic (applied below ₹500)  
-- Reported security issue (dashboard accessible after logout using back button)  
-- Created detailed bug reports with severity and priority  
-- Tested modules: login, cart, coupon, order placement, order tracking  
+
+* Performed end-to-end testing of a web-based food delivery system
+* Identified functional bug in coupon logic (applied below ₹500)
+* Reported security issue (dashboard accessible after logout using back button)
+* Created detailed bug reports with severity and priority
+* Tested modules: login, cart, coupon, order placement, order tracking
+
+---
 
 ### 🔐 Login Page Testing (Black Box Testing)
-- Designed test cases using Equivalence Partitioning & Boundary Value Analysis  
-- Validated email and password fields with multiple scenarios  
-- Covered valid, invalid, and boundary test cases  
-- Ensured proper error handling and validation messages  
-- Executed and documented 8+ test cases  
+
+* Designed test cases using Equivalence Partitioning & Boundary Value Analysis
+* Validated email and password fields with multiple scenarios
+* Covered valid, invalid, and boundary test cases
+* Ensured proper error handling and validation messages
+
+---
 
 ### ⚙️ Discount Logic Testing (White Box Testing)
-- Created decision table and covered all logical branches  
-- Designed test cases for different conditions  
-- Calculated cyclomatic complexity  
+
+* Created decision table and covered all logical branches
+* Designed test cases for different conditions
+* Calculated cyclomatic complexity
+
+
 
 ---
 
