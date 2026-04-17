@@ -21,7 +21,6 @@ I build scalable backend systems in Ubuntu-based environments and enjoy CLI-firs
 </p>
 
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -44,67 +43,25 @@ I build scalable backend systems in Ubuntu-based environments and enjoy CLI-firs
 
 ---
 
-## 🧪 Testing Stack
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Selenium-WebDriver-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TestNG-Framework-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST%20Assured-API-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Postman-API%20Testing-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JIRA-Bug%20Tracking-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Maven-Build-red?style=for-the-badge"/>
-</p>
+<img src="https://img.shields.io/badge/Selenium-WebDriver-brightgreen?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestNG-Framework-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-API%20Testing-orange?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/JIRA-Bug%20Tracking-blue?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-Build-red?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20Assured-API-blue?style=for-the-badge"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/POM-Design%20Pattern-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API%20Testing-Automation-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Manual%20Testing-Black%20%26%20White%20Box-yellow?style=for-the-badge"/>
-</p>
-
-
-
-## 🚀 Backend Focus
-
-- 🐧 Ubuntu development environment  
-- 🏗 Modular architecture & clean system design  
-- 🔁 Git-based distributed workflows  
-- 📊 Data Structures & Algorithms  
-- 🌐 REST API design & backend performance optimization  
+</div>
 
 ---
 
-## 💻 Selected Projects
+### ⚙️ Testing Concepts
 
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="55"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=python" height="55"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="55"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="55"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=git" height="55"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="55"/>
-</div>
-
-### 🧪 Testing Stack
-
-* Selenium WebDriver
-* TestNG
-* REST Assured (Learning)
-* Postman
-* JIRA (Basic)
-* Maven
-* Page Object Model (POM)
-* API Testing & Automation
-* Manual Testing (Black Box, White Box)
-
+- Page Object Model (POM)  
+- API Testing & Automation  
+- Manual Testing (Black Box, White Box)  
+- Functional, Regression, Smoke Testing  
 ---
 
 ## 💻 Selected Projects
