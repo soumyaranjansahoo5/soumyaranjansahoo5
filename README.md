@@ -63,7 +63,23 @@ I build scalable backend systems in Ubuntu-based environments and enjoy CLI-firs
 - Manual Testing (Black Box, White Box)  
 - Functional, Regression, Smoke Testing  
 ---
+## ⚙️ Testing Concepts (Backend / Java)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/API-Testing-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Integration-Testing-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Unit-Testing-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-SQL-yellow?style=for-the-badge"/>
+</p>
+
+- REST API Testing & Automation  
+- API Validation (Status Codes, Response Body, Headers)  
+- Integration Testing (Service Layer Testing)  
+- Unit Testing (JUnit Basics)  
+- Database Testing (SQL Validation)  
+- Functional, Regression & Smoke Testing  
+- Error Handling & Exception Validation  
+- Test Case Design & Test Data Management  
 ## 💻 Selected Projects
 
 ### 🎥 YouTube Automation Testing Framework
