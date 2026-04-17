@@ -84,7 +84,7 @@ Exception Handling • Edge Case Validation • Defect Identification
 💡 Focus Areas: QA Automation | API Testing | Backend Validation | Quality Engineering
 
 </p>
-## 💻 Selected Projects
+## 🧪💻 Manual Testing Projects
 
 ### 🎥 YouTube Automation Testing Framework
 
