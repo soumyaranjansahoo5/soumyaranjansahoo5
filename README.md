@@ -159,22 +159,8 @@ QA Automation | API Testing | Backend Validation | Quality Engineering
 
 ---
 
-## 🎮 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/soumyaranjansahoo5/soumyaranjansahoo5/main/dist/pacman-contribution-graph.svg" />
-</p>
 
----
-
-## 🌍 Open Source Mindset
-
-* CLI-first development approach
-* Comfortable in distributed engineering environments
-* Exploring Linux internals & containerization
-* Interested in system-level engineering
-
----
 
 ## 📫 Connect With Me
 
