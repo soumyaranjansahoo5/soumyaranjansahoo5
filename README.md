@@ -7,7 +7,6 @@
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soumyaranjansahoo5&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
     <img src="https://img.shields.io/github/followers/soumyaranjansahoo5?label=Followers&style=for-the-badge" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/soumyaranjansahoo5?affiliations=OWNER,COLLABORATOR&style=for-the-badge" alt="GitHub Stars" />
 </p>
