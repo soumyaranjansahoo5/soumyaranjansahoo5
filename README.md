@@ -10,10 +10,7 @@
   
   <img src="https://img.shields.io/github/stars/soumyaranjansahoo5?affiliations=OWNER,COLLABORATOR&style=for-the-badge" alt="GitHub Stars" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soumyaranjansahoo5&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumyaranjansahoo5&show_icons=true)
 
 <p align="center">
 Java Backend & QA Automation Engineer with strong foundation in Selenium, Java, and software testing.  
