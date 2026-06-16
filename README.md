@@ -8,10 +8,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soumyaranjansahoo5&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   
-![GitHub followers](https://img.shields.io/github/followers/soumyaranjansahoo5?style=social)  
   <img src="https://img.shields.io/github/stars/soumyaranjansahoo5?affiliations=OWNER,COLLABORATOR&style=for-the-badge" alt="GitHub Stars" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soumyaranjansahoo5&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 ---
 
 <p align="center">
