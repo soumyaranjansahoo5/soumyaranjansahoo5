@@ -5,11 +5,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%94%A5+Java+Developer;%F0%9F%A7%AA+QA+Automation+Engineer;%F0%9F%94%8D+Manual+Tester;%F0%9F%92%BB+Software+Development+Engineer+in+Test&color=FF5733,00F7FF,8A2BE2" />
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soumyaranjansahoo5&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/soumyaranjansahoo5?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/soumyaranjansahoo5?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=soumyaranjansahoo5&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  
+  <img src="https://img.shields.io/github/followers/soumyaranjansahoo5?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+  
+  <img src="https://img.shields.io/github/stars/soumyaranjansahoo5?affiliations=OWNER,COLLABORATOR&style=for-the-badge" alt="GitHub Stars" />
 </p>
 
 ---
